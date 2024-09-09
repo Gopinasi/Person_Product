@@ -1,0 +1,4 @@
+000001, Pipeweed, Long Bottom Leaf, 600.0{"ID":000001", "name":Pipeweed", "desc":Long Bottom Leaf", "cost":600.0}<Product><ID>000001</ID><name>Pipeweed</name><desc>Long Bottom Leaf</desc><cost>600.0</cost></Product>
+000002, Lembas, Elven Wayfare Bread, 200.0{"ID":000002", "name":Lembas", "desc":Elven Wayfare Bread", "cost":200.0}<Product><ID>000002</ID><name>Lembas</name><desc>Elven Wayfare Bread</desc><cost>200.0</cost></Product>
+000003, Wine , Woodland Elf Wine, 400.0{"ID":000003", "name":Wine ", "desc":Woodland Elf Wine", "cost":400.0}<Product><ID>000003</ID><name>Wine </name><desc>Woodland Elf Wine</desc><cost>400.0</cost></Product>
+000004 , Mushrooms, Farmer Took's Finest, 125.0{"ID":000004 ", "name":Mushrooms", "desc":Farmer Took's Finest", "cost":125.0}<Product><ID>000004 </ID><name>Mushrooms</name><desc>Farmer Took's Finest</desc><cost>125.0</cost></Product>
